@@ -83,10 +83,10 @@ I enjoy building complete systems — from **hardware (ESP32 sensors)** to **bac
 
 <div align="center">
 
-| ![stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&count_private=true) | ![streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true) |
+| ![stats](https://github-readme-stats.vercel.app/api?username=smart-nexus-ai&show_icons=true&theme=transparent&hide_border=true&count_private=true) | ![streak](https://github-readme-streak-stats.herokuapp.com/?user=smart-nexus-ai&theme=transparent&hide_border=true) |
 |---|---|
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&langs_count=8)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smart-nexus-ai&layout=compact&theme=transparent&hide_border=true&langs_count=8)
 
 </div>
 
