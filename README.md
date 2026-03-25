@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Firdous Rahaman" src="https://github.com/user-attachments/assets/80ff0784-380d-4f93-bd96-f1d28ffa4e4d" />
+<img alt="Firdous Rahaman" src=https://lh3.googleusercontent.com/a/ACg8ocIHz8I6_NKF_Qu6-E0S-0dJkqMnV3xZ2Kd83C4-oMuuhvSIChrU=s96-c" />
 
 ### Hi there, I'm Firdous Rahaman 👋
 
@@ -51,7 +51,7 @@ Got a project idea, or just want to say hi? Feel free to reach out!
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: firdousrahaman.tfg@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://firdous-rahaman.vercel.app)
 
 </div>
