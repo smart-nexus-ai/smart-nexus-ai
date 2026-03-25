@@ -34,7 +34,7 @@ These are the tools and technologies I work with on a daily basis:
 
 <div align="center">
 
-| ![Firdous's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true) |
+| ![Firdous's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smart-nexus_ai&show_icons=true&theme=transparent&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smart-nexus-ai&theme=transparent&hide_border=true) |
 |---|---|
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firdouscgec&layout=compact&theme=transparent&hide_border=true)
