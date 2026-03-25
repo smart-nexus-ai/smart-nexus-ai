@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Firdous Rahaman" src=https://lh3.googleusercontent.com/a/ACg8ocIHz8I6_NKF_Qu6-E0S-0dJkqMnV3xZ2Kd83C4-oMuuhvSIChrU=s96-c" />
+<img alt="Firdous Rahaman" src="https://lh3.googleusercontent.com/a/ACg8ocIHz8I6_NKF_Qu6-E0S-0dJkqMnV3xZ2Kd83C4-oMuuhvSIChrU=s96-c" />
 
 ### Hi there, I'm Firdous Rahaman 👋
 
